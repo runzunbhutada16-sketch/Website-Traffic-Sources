@@ -1,0 +1,26 @@
+Starting Website Traffic Sources Analysis...
+
+ Loaded 500 records from website_traffic.csv
+
+🧹 Cleaning data...
+   Removed 3 rows with missing critical values.
+   Removed 5 duplicate records.
+   Removed 2 rows with invalid dates.
+ Data cleaned. Final dataset: 490 records.
+
+
+=========================================
+ WEBSITE TRAFFIC ANALYSIS DASHBOARD
+=========================================
+
+1. View Dataset Summary
+2. Analyze Traffic Trends
+3. View Traffic Source Performance
+4. Analyze Device-wise Traffic
+5. Region-wise Traffic Analysis
+6. Conversion and Bounce Rate Analysis
+7. Generate Visualizations
+8. Export Reports
+9. Exit
+
+Enter your choice: 1
